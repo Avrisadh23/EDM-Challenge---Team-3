@@ -15,4 +15,4 @@ StuntGuard memiliki beberapa fitur utama, yaitu :
 
 Dengan adanya aplikasi StuntGuard ini masyarakat dapat dengan lebih mudah untuk memantau pertumbuhan anak mereka serta mendapatkan informasi dan saran yang tepat untuk memastikan gizi yang cukup dan seimbang bagi pertumbuhan ideal anak. Hal ini dapat membantu mengurangi tingkat stunting di indonesia dengan memberikan akses yang lebih luas kepada orang tua dan petugas kesehatan.
 # Data Source
-HAHAHAHAHAHA ICAD JELEK
+
