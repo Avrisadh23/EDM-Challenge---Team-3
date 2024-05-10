@@ -18,3 +18,6 @@ Dengan adanya aplikasi StuntGuard ini masyarakat dapat dengan lebih mudah untuk 
 - https://databoks.katadata.co.id/datapublish/2022/07/12/10-provinsi-dengan-angka-stunting-tertinggi-nasional-tahun-2021
 - https://stunting.go.id/wp-content/uploads/2021/03/RoadMap-Stunting_20112020.pdf
 - https://kesmas.kemkes.go.id/assets/uploads/contents/attachments/09fb5b8ccfdf088080f2521ff0b4374f.pdf
+- https://www.kaggle.com/datasets/rendiputra/stunting-balita-detection-121k-rows
+- https://www.ridvanmau.com/tabel-tumbuh-kembang-anak/#google_vignette
+- 
