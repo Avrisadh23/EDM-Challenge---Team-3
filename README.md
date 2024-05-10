@@ -20,4 +20,3 @@ Dengan adanya aplikasi StuntGuard ini masyarakat dapat dengan lebih mudah untuk 
 - https://kesmas.kemkes.go.id/assets/uploads/contents/attachments/09fb5b8ccfdf088080f2521ff0b4374f.pdf
 - https://www.kaggle.com/datasets/rendiputra/stunting-balita-detection-121k-rows
 - https://www.ridvanmau.com/tabel-tumbuh-kembang-anak/#google_vignette
-- 
